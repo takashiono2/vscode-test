@@ -1,3 +1,3 @@
 # visual studio codeの練習
 
-練習です。
+練習ですよ。
